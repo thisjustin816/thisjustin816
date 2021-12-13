@@ -70,24 +70,10 @@ Participated in functional testing verification for 3 projects, constantly revis
 - Collaborated with numerous hardware and software vendors during development and release to achieve functional testing certification for all projects.
 - Worked closely with engineers in Korea and Brazil, embracing multinational business culture and delivering 24/7 testing results.
 
-### CIRCUIT CITY, Long Beach, CA
-
-------
-
-**Car Electronics Supervisor**  
-_2004 - 2009_
-
-Led 5-person sales team. Assigned duties and schedules. Assisted with product installation.
-
-- Mentored staff and assisted with difficult sales, ensuring best practices were being followed.
-- Increased customer engagement by creating custom content for effective product demonstrations.
-
 ## EDUCATION
 
 **Bachelor of Science (BS)**, Computer Engineering  
 _California State University, Long Beach_
-
-Relevant courses: Mechanics and Heat, Microprocessors and Controllers, Computer Architecture, System on Chip Design, Integrated Circuit Design Software, Computer Logic Design, C/C++, Java, Assembly Language, Technical Communication
 
 ## LICENSES & CERTIFICATIONS
 
