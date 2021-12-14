@@ -15,14 +15,14 @@ Use excellent written and verbal communication skills, effectively conveying com
 
 ## TECHNICAL SKILLS
 
-|                             |                                                                                                                                         |
-| :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| Programming and Scripting:  | PowerShell, Batch, C#, Bash, REST                                                                                                       |
-| Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum                           |
-| Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                                              |
-| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git, Slack, Zoom |
-| Microsoft Office Suite:     | Word, Excel, PowerPoint, SharePoint                                                                                                     |
-| Hardware:                   | Oscilloscope, multimeter, soldering                                                                                                     |
+|                             |                                                                                                               |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| Programming and Scripting:  | PowerShell, Batch, C#, Bash, REST                                                                             |
+| Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum |
+| Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                    |
+| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git, Slack, Zoom                   |
+| Microsoft Office Suite:     | Word, Excel, PowerPoint, SharePoint                                                                           |
+| Hardware:                   | Oscilloscope, multimeter, soldering                                                                           |
 
 ## PROFESSIONAL EXPERIENCE
 
