@@ -84,5 +84,5 @@ _California State University, Long Beach_
 
 ------
 
-_This resume was generated from Markdown using Github Actions:_  
+_This resume was generated from Markdown using GitHub Actions:_  
 [![CI](https://github.com/thisjustin816/thisjustin816/actions/workflows/ci.yml/badge.svg)](https://github.com/thisjustin816/thisjustin816/actions/workflows/ci.yml)
