@@ -20,4 +20,4 @@ jobs:
         uses: actions/upload-artifact@v2.3.0
         with:
           name: jbeeson-resume
-          path: $RUNNER_TEMP\jbeeson-resume.pdf
+          path: $RUNNER_TEMP
