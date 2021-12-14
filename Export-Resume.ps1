@@ -7,6 +7,8 @@ param (
 
 $source = Get-Item -Path $FilePath
 
+$null = New-Item -Path $Destination -ItemType Directory -Force
+
 Start-Process -FilePath 'npm' -ArgumentList 'i -g md-to-pdf' -NoNewWindow -Wait
 Start-Process -FilePath 'md-to-pdf.cmd' -ArgumentList $source.FullName -NoNewWindow -Wait
 
