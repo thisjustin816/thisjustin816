@@ -14,12 +14,12 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Export Resume
-        run: .\Export-Resume.ps1 -Name jbeeson -Destination $env:RUNNER_TEMP\thisJUSTin816
+        run: .\Export-Resume.ps1 -Name jbeeson
 
       - name: Publish Resume
         uses: actions/upload-artifact@v2.3.0
-        env:
-          RUNNER_TEMP: ${{ env.RUNNER_TEMP }}
         with:
           name: jbeeson-resume
-          path: $RUNNER_TEMP\thisJUSTin816
+          path: |
+            *.pdf
+            *.txt
