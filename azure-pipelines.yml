@@ -11,7 +11,7 @@ steps:
   displayName: 'Export Markdown Resume'
   inputs:
     filePath: 'Export-Resume.ps1'
-    arguments: '-Name "jbeeson" -Destination $(Build.ArtifactStagingDirectory)'
+    arguments: '-FilePath .\README.md -Name jbeeson -Destination $(Build.ArtifactStagingDirectory)'
 
 - task: PublishPipelineArtifact@1
   displayName: 'Publish Resume'
