@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Export Resume
+        run: .\Export-Resume.ps1 -Source .\README.md -Name jbeeson -Destination $env:RUNNER_TEMP
+
+      - name: Publish Resume
+        uses: actions/upload-artifact@v2.3.0
+        with:
+          name: jbeeson-resume
+          path: $RUNNER_TEMP\jbeeson-resume.pdf
