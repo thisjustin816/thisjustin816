@@ -18,6 +18,8 @@ jobs:
 
       - name: Publish Resume
         uses: actions/upload-artifact@v2.3.0
+        env:
+          RUNNER_TEMP: ${{ env.RUNNER_TEMP }}
         with:
           name: jbeeson-resume
-          path: ${{ env.RUNNER_TEMP }}\thisJUSTin816
+          path: $RUNNER_TEMP\thisJUSTin816
