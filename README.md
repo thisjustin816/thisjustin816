@@ -17,7 +17,7 @@ Use excellent written and verbal communication skills, effectively conveying com
 
 |                             |                                                                                                               |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| Programming and Scripting:  | PowerShell, Batch, C#, Bash, REST                                                                             |
+| Programming and Scripting:  | PowerShell, Batch, REST, C#, Bash                                                                             |
 | Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum |
 | Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                    |
 | Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git, Slack, Zoom                   |
@@ -35,8 +35,8 @@ _2018 - Present_
 
 Work with multiple software engineers and testers to support the development environment and create build and release configurations for the developed systems. Advocate and educate co-workers, surgeons, and clinical associates on surgical automation products.
 
-- Created a fully automated imaging process for the Pulse Surgical Automation Platform, including the application of security measures like Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security, ensuring the system meets industry security standards (ISO 27001/UL 2900).
-- Designed the network configuration for the Pulse Surgical Automation Platform, enabling multiple peripheral network devices and wireless clients to connect and communicate simultaneously.
+- Created a fully automated imaging process for the Pulse Surgical Automation Platform, including the application of security measures like Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security, ensuring the system meets industry cybersecurity standards (ISO 27001/UL 2900).
+- Designed the network configuration for the Pulse Surgical Automation Platform, enabling multiple peripheral network devices and wireless clients to connect and communicate simultaneously on a contained local network.
 - Architected a hybrid cloud and on-premises build and release pipeline system utilizing custom PowerShell scripting and REST APIs to maximize product build efficiency while keeping costs down.
 
 **Test Engineer**  
