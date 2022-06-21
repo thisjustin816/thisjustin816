@@ -18,10 +18,11 @@ Use excellent written and verbal communication skills, effectively conveying com
 |                             |                                                                                                               |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | Programming and Scripting:  | PowerShell, Batch, REST, C#, Bash                                                                             |
-| Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum |
+| Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum   |
 | Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                    |
-| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git, Slack, Zoom                   |
+| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git                                |
 | Microsoft Office Suite:     | Word, Excel, PowerPoint, SharePoint                                                                           |
+| Collaboration Tools:        | Slack, Zoom, MS Teams                                                                                         |
 | Hardware:                   | Oscilloscope, multimeter, soldering                                                                           |
 
 ## PROFESSIONAL EXPERIENCE
