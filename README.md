@@ -76,6 +76,8 @@ Participated in functional testing verification for 3 projects, constantly revis
 **Bachelor of Science (BS)**, Computer Engineering  
 _California State University, Long Beach_
 
+[**Microsoft Learn**, Various Learning Paths and Modules](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn)
+
 ## LICENSES & CERTIFICATIONS
 
 |                                                                                                                                      |                                    |
