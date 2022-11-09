@@ -17,7 +17,7 @@ Use excellent written and verbal communication skills, effectively conveying com
 
 |                             |                                                                                                               |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| Programming and Scripting:  | PowerShell, Batch, REST, C#, Bash                                                                             |
+| Programming and Scripting:  | PowerShell, YAML, Bicep, Batch, REST, C#, Bash                                                                |
 | Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum   |
 | Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                    |
 | Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git                                |
