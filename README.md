@@ -31,7 +31,7 @@ Use excellent written and verbal communication skills, effectively conveying com
 
 ------
 
-**Sr. Lead DevOps Engineer**  
+**Lead DevOps Engineer**  
 _2022 - Present_
 
 Lead all DevOps and build configuration efforts for the Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
