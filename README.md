@@ -31,8 +31,13 @@ Use excellent written and verbal communication skills, effectively conveying com
 
 ------
 
-**Sr. Development & Configuration Engineer**  
-_2018 - Present_
+**Sr. Lead DevOps Engineer**  
+_2022 - Present_
+
+Lead all DevOps and build configuration efforts for the Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
+
+**Senior Development & Configuration Engineer**  
+_2018 - 2022_
 
 Work with multiple software engineers and testers to support the development environment and create build and release configurations for the developed systems. Advocate and educate co-workers, surgeons, and clinical associates on surgical automation products.
 
