@@ -39,7 +39,7 @@ Lead all DevOps and build configuration efforts for the Surgical Intelligence te
 **Senior Development & Configuration Engineer**  
 _2018 - 2022_
 
-Work with multiple software engineers and testers to support the development environment and create build and release configurations for the developed systems. Advocate and educate co-workers, surgeons, and clinical associates on surgical automation products.
+Worked with multiple software engineers and testers to support the development environment and created build and release configurations for the developed systems. Advocated and educated co-workers, surgeons, and clinical associates on surgical automation products.
 
 - Created a fully automated imaging process for the Pulse Surgical Automation Platform, including the application of security measures like Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security, ensuring the system meets industry cybersecurity standards (ISO 27001/UL 2900).
 - Designed the network configuration for the Pulse Surgical Automation Platform, enabling multiple peripheral network devices and wireless clients to connect and communicate simultaneously on a contained local network.
