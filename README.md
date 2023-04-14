@@ -36,7 +36,7 @@ _2022 - Present_
 
 Lead all DevOps and build configuration efforts for the Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
 
-- Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Bicep and PowerShell.
+- Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Azure Pipelines with Bicep and PowerShell.
 - Created several specialized Azure DevOps instances for non-software teams, utilizing custom work processes, allowing increased cross-functional collaboration. 
 
 **Senior Development & Configuration Engineer**  
