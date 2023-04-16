@@ -9,8 +9,6 @@
 
 Work collaboratively with software engineering in Scrum and Agile methodologies to deploy and operate systems. Help automate and streamline operations and processes. Build and maintain tools for deployment, monitoring, and operations. Troubleshoot and resolve issues in development, test, and production environments.
 
-Devise automated test plans and strategies, using strong problem solving and analytical skills. Work on cross-functional teams, collaborating across divisions and countries. Continuously deliver feedback and recommendations to developers on usability, functionality, and improvements to systems.
-
 Use excellent written and verbal communication skills, effectively conveying complex topics, to both technical and non-technical audiences at all organizational levels.
 
 ## TECHNICAL SKILLS
@@ -36,8 +34,8 @@ _2022 - Present_
 
 Lead all DevOps and build configuration efforts for the Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
 
-- Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Azure Pipelines with Bicep and PowerShell.
-- Created several specialized Azure DevOps instances for non-software teams, utilizing custom work processes, allowing increased cross-functional collaboration. 
+- Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Azure Pipelines with Bicep (infrastructure as code) and PowerShell.
+- Created several specialized Azure DevOps instances for non-software teams, utilizing custom work processes, allowing increased cross-functional collaboration.
 
 **Senior Development & Configuration Engineer**  
 _2018 - 2022_
