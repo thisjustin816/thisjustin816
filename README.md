@@ -36,7 +36,7 @@ Lead all DevOps and build configuration efforts for the Surgical Intelligence te
 
 - Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Azure Pipelines with Bicep (infrastructure as code) and PowerShell.
 - Created a custom, scalable, Azure Pipelines solution for security scanning on several micro-service based products spanning 100+ repositories and pipelines, using PowerShell, OWASP Dependency Check, SonarCloud, and REST APIs, ensuring that vulnerabilities like what is listed in the OWASP Top 10 and CWE Top 25 are found quickly.  
-- Managed all Azure DevOps projects across R&D, including creating several custom work processes, enabling cross-functional teams to collaborate more effectively with software development.
+- Manage all Azure DevOps projects across R&D, including creating several custom work processes, enabling cross-functional teams to collaborate more effectively with software development.
 
 **Senior Development & Configuration Engineer**  
 _2018 - 2022_
