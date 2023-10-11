@@ -18,10 +18,7 @@ Use excellent written and verbal communication skills, effectively conveying com
 | Programming and Scripting:  | PowerShell, YAML, Bicep, Batch, REST, C#, Bash                                                                |
 | Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum   |
 | Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                    |
-| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git                                |
-| Microsoft Office Suite:     | Word, Excel, PowerPoint, SharePoint                                                                           |
-| Collaboration Tools:        | Slack, Zoom, MS Teams                                                                                         |
-| Hardware:                   | Oscilloscope, multimeter, soldering                                                                           |
+| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git, GitHub                        |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -32,10 +29,10 @@ Use excellent written and verbal communication skills, effectively conveying com
 **Lead DevOps Engineer**  
 _2022 - Present_
 
-Lead all DevOps and build configuration efforts for the Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
+Lead all DevOps and build configuration efforts for the product development Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
 
 - Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Azure Pipelines with Bicep (infrastructure as code) and PowerShell.
-- Created a custom, scalable, Azure Pipelines solution for security scanning on several micro-service based products spanning 100+ repositories and pipelines, using PowerShell, OWASP Dependency Check, SonarCloud, and REST APIs, ensuring that vulnerabilities like what is listed in the OWASP Top 10 and CWE Top 25 are found quickly.  
+- Created a custom, scalable, Azure Pipelines solution for security scanning on several micro-service based products spanning 100+ repositories and pipelines, using PowerShell, OWASP Dependency Check, SonarCloud, and REST APIs. This ensures that vulnerabilities, including those listed in the OWASP Top 10 and CWE Top 25, are found quickly.
 - Manage all Azure DevOps projects across R&D, including creating several custom work processes, enabling cross-functional teams to collaborate more effectively with software development.
 
 **Senior Development & Configuration Engineer**  
