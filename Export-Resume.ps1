@@ -9,8 +9,12 @@ $source = Get-Item -Path $FilePath
 
 $null = New-Item -Path $Destination -ItemType Directory -Force
 
-Start-Process -FilePath 'npm' -ArgumentList 'i -g md-to-pdf' -NoNewWindow -Wait
-Start-Process -FilePath 'md-to-pdf.cmd' -ArgumentList $source.FullName -NoNewWindow -Wait
+$sameWindow = @{
+    NoNewWindow = $true
+    Wait = $true
+}
+Start-Process -FilePath 'npm' -ArgumentList 'i -g md-to-pdf' @sameWindow
+Start-Process -FilePath 'md-to-pdf.cmd' -ArgumentList $source.FullName @sameWindow
 
 $pdfResume = Get-ChildItem -Path $source.Parent.FullName -Filter '*.pdf' -Recurse |
     Rename-Item -NewName "$Name-resume.pdf" -PassThru -Force
