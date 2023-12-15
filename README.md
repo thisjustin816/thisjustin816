@@ -78,7 +78,7 @@ Participated in functional testing verification for 3 projects, constantly impro
 **Bachelor of Science (BS), Computer Engineering**  
 _California State University, Long Beach_
 
-**Various courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and Github Actions, Python, Terraform, and more**  
+**Courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and Github Actions, Python, Terraform, and more**  
 _[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn), [Pluralsight](https://app.pluralsight.com/profile/justin-beeson), Udemy, Coursera, etc._
 
 ## LICENSES & CERTIFICATIONS
