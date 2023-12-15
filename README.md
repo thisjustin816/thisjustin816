@@ -11,12 +11,11 @@ Passionate and results-oriented DevOps Engineer with 14+ years in software devel
 
 ## TECHNICAL SKILLS
 
-|                             |                                                                                                               |
-| :-------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| Programming and Scripting:  | PowerShell, YAML, Bicep, Batch, REST, C#, Bash                                                                |
-| Concepts and Methodologies: | DevOps, Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum   |
-| Operating Systems:          | Windows, WinPE, Linux, Apple, Android, iOS                                                                    |
-| Software:                   | Azure DevOps, Azure Pipelines, Azure Repos, Azure, Visual Studio, VS Code, Git, GitHub                        |
+|                            |                                                                                                             |
+| :------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| Programming and Scripting  | PowerShell, YAML, Bicep, Batch, REST, C#, Bash                                                              |
+| Concepts and Methodologies | DevOps, Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum |
+| Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                    |
 
 ## PROFESSIONAL EXPERIENCE
 
