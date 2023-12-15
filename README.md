@@ -29,7 +29,7 @@ Use excellent written and verbal communication skills, effectively conveying com
 **Lead DevOps Engineer**  
 _2022 - Present_
 
-Lead all DevOps and build configuration efforts for the product development Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure.
+Lead all DevOps and build configuration efforts for the product development Surgical Intelligence team. Coordinate with all software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
 - Designed a fully automated Azure deployment infrastructure for an App Service based product that allows developers to deploy seamlessly to the cloud or local environment, using Azure Pipelines with Bicep (infrastructure as code) and PowerShell.
 - Created a custom, scalable, Azure Pipelines solution for security scanning on several micro-service based products spanning 100+ repositories and pipelines, using PowerShell, OWASP Dependency Check, SonarCloud, and REST APIs. This ensures that vulnerabilities, including those listed in the OWASP Top 10 and CWE Top 25, are found quickly.
