@@ -7,7 +7,7 @@
 
 ## DevOps & Configuration Engineer | Product & Process Advocate
 
-Passionate and results-oriented DevOps Engineer with 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize efficiency. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
+Passionate and results-oriented DevOps Engineer with 14+ years in software development and 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize efficiency. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
 
 ## TECHNICAL SKILLS
 
@@ -27,16 +27,16 @@ Passionate and results-oriented DevOps Engineer with 7+ years of experience in b
 **Lead DevOps Engineer**  
 _2022 - Present_
 
-Spearhead all DevOps and build configuration efforts for the Surgical Intelligence product development team. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
+Direct all DevOps and build configuration efforts for the Surgical Intelligence product development team. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
 - Designed a fully automated Azure deployment infrastructure for an App Service based product, enabling seamless deployments to the cloud or local environment.
-- Built a scalable, Azure Pipelines solution for security scanning across 100+ micro-service based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures quick identification and mitigation of vulnerabilities, including those listed in the OWASP Top 10 and CWE Top 25.
+- Built a scalable, Azure Pipelines solution for security scanning across 100+ microservice-based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures quick identification and mitigation of vulnerabilities, including those listed in the OWASP Top 10 and CWE Top 25.
 - Manage all Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration.
 
 **Senior Development & Configuration Engineer**  
 _2018 - 2022_
 
-Supported multiple software engineers and testers, developing build and release configurations for various systems. Advocated and educated colleagues, surgeons, and clinical associates on surgical automation products.
+Supported multiple software engineers and testers to develop build and release configurations for various systems. Advocated and educated colleagues, surgeons, and clinical associates on surgical automation products.
 
 - Created a fully automated imaging process and system configuration for the Pulse Surgical Automation Platform, adhering to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
 - Designed the network configuration for the Pulse Surgical Automation Platform, enabling seamless connectivity for peripheral devices and wireless clients.
@@ -57,7 +57,7 @@ Developed system integration and regression test plans for Windows-based softwar
 **Senior Product Support Engineer**  
 _2013 – 2015_
 
-Led geographically-dispersed team of testers, achieving functional testing certification for 3 projects. Set up, maintained, and reported on automated testing racks for legacy and current projects. Conducted technical specification and testing methodology seminars across organizational levels.
+Led geographically dispersed team of testers, achieving functional testing certification for 3 projects. Set up, maintained, and reported on automated testing racks for legacy and current projects. Conducted technical specification and testing methodology seminars across organizational levels.
 
 - Supported development and release of 6 DIRECTV projects (Set-Top Boxes H24, HR24, HR44, HR54, SH10, and 2015 RVU TVs), meeting all testing deadlines.
 - Created automated testing scripts that debugged field and development issues, increasing testing efficiency.
