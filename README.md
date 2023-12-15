@@ -75,17 +75,18 @@ Participated in functional testing verification for 3 projects, constantly impro
 
 ## EDUCATION
 
-**Bachelor of Science (BS)**, Computer Engineering  
+**Bachelor of Science (BS), Computer Engineering**  
 _California State University, Long Beach_
 
-[**Microsoft Learn**, Various Learning Paths and Modules](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn)
+**Various courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and Github Actions, Python, Terraform, and more**  
+_[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn), [Pluralsight](https://app.pluralsight.com/profile/justin-beeson), Udemy, Coursera, etc._
 
 ## LICENSES & CERTIFICATIONS
 
-|                                                                                                                                      |                                    |
-| :----------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| [**Microsoft DEVOPS200.1x: DevOps Practices and Principles**](https://courses.edx.org/certificates/e7db67e18d0548e382af531a132f4165) | _edX_                              |
-| Ranorex Advanced Training                                                                                                            | ASPE, a division of Fortis College |
+|                                                                                                                                      |                 |
+| :----------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| [**Microsoft DEVOPS200.1x: DevOps Practices and Principles**](https://courses.edx.org/certificates/e7db67e18d0548e382af531a132f4165) | _edX_           |
+| Ranorex Advanced Training                                                                                                            | Cprime Learning |
 
 ------
 
