@@ -5,17 +5,17 @@
 > [https://www.linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
 > [https://github.com/thisjustin816](https://github.com/thisjustin816)  
 
-## DevOps & Configuration Engineer | Product & Process Advocate
+## Lead DevOps & Configuration Engineer
 
-Passionate and results-oriented DevOps Engineer with 14+ years in software development and 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize efficiency. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
+Passionate and results-oriented DevOps Engineer with 14+ years in software development and 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
 
-## TECHNICAL SKILLS
+## KEY SKILLS & PROFICIENCIES
 
 |                            |                                                                                                             |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------- |
-| Programming and Scripting  | PowerShell, YAML, Bicep, Batch, REST, C#, Bash                                                              |
-| Concepts and Methodologies | DevOps, Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile SDLC, Scrum |
+| Programming and Scripting  | PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#                                                              |
 | Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                    |
+| Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -46,7 +46,7 @@ _2016 - 2018_
 
 Developed system integration and regression test plans for Windows-based software, web applications, and services within an Agile environment. Coordinated test engineers from multiple Scrum teams. Built tools and scripts for automated performance and load testing.
 
-- Implemented a comprehensive regression test plan for the second version of NuVasive's Remote Monitoring platform, ensuring successful validation on the first attempt.
+- Implemented a comprehensive regression test plan for the NuVasive Remote Monitoring platform, resulting in successful execution of all verification protocols on the first attempt.
 - Designed and created automated and manual test plans and guidelines for the Pulse Surgical Automation Platform, guaranteeing complete requirements coverage.
 
 ### SAMSUNG ELECTRONICS AMERICA, Long Beach, CA
@@ -66,7 +66,7 @@ Led geographically dispersed team of testers, achieving functional testing certi
 **Product Support Engineer**  
 _2009 – 2013_
 
-Participated in functional testing verification for 3 projects, constantly improving and innovating testing strategies. Analyzed and reported field issues, providing detailed defect information using bug tracking systems. Reported automated testing rack results.
+Participated in functional testing verification, constantly improving and innovating testing strategies. Analyzed and reported field issues, providing detailed defect information using bug tracking systems. Reported automated testing rack results.
 
 - Helped develop comprehensive user interface testing procedures for 2 projects, enabling early tracking of failures.
 - Collaborated with hardware and software vendors during development and release, achieving functional testing certification for all projects.
