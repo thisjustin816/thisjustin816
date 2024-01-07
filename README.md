@@ -56,7 +56,7 @@ Developed system integration and regression test plans for Windows-based softwar
 **Senior Product Support Engineer**  
 _2013 – 2015_
 
-Led geographically dispersed team of testers, achieving functional testing certification for 3 projects. Set up, maintained, and reported on automated testing racks for legacy and current projects. Conducted technical specification and testing methodology seminars across organizational levels.
+Led geographically dispersed team of testers, achieving functional testing certification for multiple projects. Set up, maintained, and reported on automated testing racks for legacy and current projects. Conducted technical specification and testing methodology seminars across organizational levels.
 
 - Supported development and release of 6 DIRECTV projects (Set-Top Boxes H24, HR24, HR44, HR54, SH10, and 2015 RVU TVs), meeting all testing deadlines.
 - Created automated testing scripts that debugged field and development issues, increasing testing efficiency.
