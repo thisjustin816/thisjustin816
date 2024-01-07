@@ -2,12 +2,12 @@
 
 > San Diego, CA  
 > [justinbeeson@gmail.com](mailto:justinbeeson@gmail.com)  
-> [https://www.linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
-> [https://github.com/thisjustin816](https://github.com/thisjustin816)  
+> [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
+> [github.com/thisjustin816](https://github.com/thisjustin816)  
 
 ## Lead DevOps & Configuration Engineer
 
-Passionate and results-oriented DevOps Engineer with 14+ years in software development and 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
+Passionate and results-oriented DevOps Engineer with 14+ years in software development and 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Adaptable and eager to learn new technologies and tools as needed to deliver high-quality solutions. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
 
 ## KEY SKILLS & PROFICIENCIES
 
