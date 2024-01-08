@@ -6,7 +6,7 @@
 
 ## Lead DevOps Engineer
 
-Results-oriented DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
+Results-oriented DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
 ### KEY SKILLS & PROFICIENCIES
 

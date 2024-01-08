@@ -23,10 +23,10 @@ if (!( Get-Command -Name 'md-to-pdf.cmd' -ErrorAction SilentlyContinue )) {
 
 foreach ($file in $source) {
     $fileName = if ($file.Name -match 'readme') {
-        "$Name-resume_$Version"
+        "$Name-resume-complete_$Version"
     }
     else {
-        "$Name-resume-singlepage_$Version"
+        "$Name-resume_$Version"
     }
 
     Start-Process `
