@@ -4,7 +4,9 @@
 > [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
 > [github.com/thisjustin816](https://github.com/thisjustin816)  
 
-Passionate and results-oriented DevOps Engineer with 14+ years in software development and 7+ years of experience in building, automating, and maintaining infrastructure for software development teams. Proven track record of successfully leading and collaborating on complex DevOps projects, from conception to deployment. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Adaptable and eager to learn new technologies and tools as needed to deliver high-quality solutions. Excellent communicator with a strong ability to break down technical concepts for both technical and non-technical audiences.
+## Lead DevOps Engineer
+
+Results-oriented DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
 ### KEY SKILLS & PROFICIENCIES
 
