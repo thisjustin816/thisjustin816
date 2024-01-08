@@ -1,0 +1,10 @@
+{
+  "pdf_options": {
+    "margin": {
+      "top": "5mm",
+      "right": "5mm",
+      "bottom": "5mm",
+      "left": "5mm"
+    }
+  }
+}
