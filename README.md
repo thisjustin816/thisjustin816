@@ -39,7 +39,7 @@ Supported multiple software engineers and testers to develop build and release c
 
 - Created a 3-step automated imaging process and system configuration for the Pulse Surgical Automation Platform, adhering 100% to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
 - Designed the network configuration for the Pulse Surgical Automation Platform, enabling seamless connectivity for peripheral devices and wireless clients.
-- Architected a hybrid cloud and on-premises build and release pipeline system, maximizing efficiency while cloud resource costs up to 80%.
+- Architected a hybrid cloud and on-premises build and release pipeline system, maximizing efficiency while reducing cloud resource costs up to 80%.
 
 **Test Engineer**  
 _2016 - 2018_
