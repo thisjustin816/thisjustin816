@@ -53,7 +53,7 @@ Developed system integration and regression test plans for Windows-based softwar
 
 ------
 
-**Senior Product Support Engineer**  
+**Senior Test Engineer**  
 _2013 – 2015_
 
 Led geographically dispersed team of testers, achieving functional testing certification for multiple projects. Set up, maintained, and reported on automated testing racks for legacy and current projects. Conducted technical specification and testing methodology seminars across organizational levels.
@@ -63,7 +63,7 @@ Led geographically dispersed team of testers, achieving functional testing certi
 - Assisted in constructing and maintaining automated test racks supporting 200+ units, enabling remote monitoring and upkeep.
 - Implemented and oversaw a highly accelerated life test (HALT) on several projects, fulfilling production requirements.
 
-**Product Support Engineer**  
+**Test Engineer**  
 _2009 – 2013_
 
 Participated in functional testing verification, constantly improving and innovating testing strategies. Analyzed and reported field issues, providing detailed defect information using bug tracking systems. Reported automated testing rack results.

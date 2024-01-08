@@ -40,7 +40,7 @@ Developed system integration and regression test plans for Windows-based softwar
 
 #### SAMSUNG ELECTRONICS AMERICA, Long Beach, CA
 
-**Associate/Senior Product Support Engineer** | _2009 – 2015_  
+**Associate/Senior Test Engineer** | _2009 – 2015_  
 Led geographically dispersed team of testers, achieving functional testing certification for multiple projects. Participated in functional testing verification, constantly improving and innovating testing strategies. Conducted technical specification and testing methodology seminars across organizational levels.
 
 ### EDUCATION & CERTIFICATIONS
