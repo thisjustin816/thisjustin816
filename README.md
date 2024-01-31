@@ -40,7 +40,7 @@ _2018 - 2022_
 
 Supported multiple software engineers and testers to develop build and release configurations for various systems. Advocated and educated colleagues, surgeons, and clinical associates on surgical automation products.
 
-- Created a 3-step automated imaging process and system configuration for the Pulse Surgical Automation Platform, adhering 100% to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
+- Created a 3-step automated imaging process and system configuration for Pulse, adhering 100% to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
 - Designed the network configuration for the Pulse Surgical Automation Platform, enabling seamless connectivity for peripheral devices and wireless clients.
 - Architected a hybrid cloud and on-premises build and release pipeline system, maximizing efficiency while reducing cloud resource costs up to 80%.
 - Attended clinical cases during the Pulse evaluation phase, providing technical support and troubleshooting, and gathering first-hand feedback from surgeons and clinical associates.
