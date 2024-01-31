@@ -23,7 +23,7 @@ Lead and manage the DevOps strategy and operations for the Surgical Intelligence
 
 - Designed a 100% automated Azure deployment infrastructure for an App Service based product, enabling seamless, reproducible deployments to the cloud or local environment.
 - Built a scalable, Azure Pipelines solution for vulnerability scanning, including those listed in the OWASP Top 10 and CWE Top 25, across 100+ microservice-based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures identification of vulnerabilities within 24 hours of occurring, and enables quick mitigation.
-- Manage 40+ Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration, and administering git repositories and driving branching and merging processes.
+- Manage 40+ Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration.
 - Cultivate a culture of continuous learning and improvement, mentoring junior engineers and fostering their professional growth.
 
 **Senior DevOps Engineer** | _2018 - 2022_  
