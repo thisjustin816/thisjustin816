@@ -7,7 +7,7 @@
 
 ## Lead DevOps Engineer
 
-Results-oriented DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
+Results-oriented Lead DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
 ## KEY SKILLS & PROFICIENCIES
 
@@ -15,7 +15,7 @@ Results-oriented DevOps Engineer with 14+ years in software development and 7+ y
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Programming and Scripting  | PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#                                                                                                                                                                                                                    |
 | Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                                                                                                                                                                                  |
-| Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing |
+| Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -26,11 +26,13 @@ Results-oriented DevOps Engineer with 14+ years in software development and 7+ y
 **Lead DevOps Engineer**  
 _2022 - Present_
 
-Direct all DevOps and build configuration efforts for the Surgical Intelligence product development team. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
+Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
 - Designed a 100% automated Azure deployment infrastructure for an App Service based product, enabling seamless, reproducible deployments to the cloud or local environment.
 - Built a scalable, Azure Pipelines solution for vulnerability scanning, including those listed in the OWASP Top 10 and CWE Top 25, across 100+ microservice-based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures identification of vulnerabilities within 24 hours of occurring, and enables quick mitigation.
 - Manage 40+ Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration, and administering git repositories and driving branching and merging processes.
+- Manage a quarter million-dollar budget for software development tools and cloud resources, optimizing spend and maximizing ROI.
+- Cultivate a culture of continuous learning and improvement, mentoring junior engineers and fostering their professional growth.
 
 **Senior DevOps Engineer**  
 _2018 - 2022_
@@ -78,7 +80,7 @@ Participated in functional testing verification, constantly improving and innova
 **Bachelor of Science (BS), Computer Engineering**  
 _California State University, Long Beach_
 
-**Courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and Github Actions, Python, Terraform, and more**  
+**Courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and Github Actions, Python, Terraform, AWS, and more**  
 _[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn), [Pluralsight](https://app.pluralsight.com/profile/justin-beeson), [Coursera](https://www.coursera.org/user/b6fcbd197190b1aada7a9caab88276b6), etc._
 
 ## LICENSES & CERTIFICATIONS

@@ -1,4 +1,4 @@
-## JUSTIN BEESON | Lead DevOps Engineer | San Diego, CA
+# JUSTIN BEESON | Lead DevOps Engineer | San Diego, CA
 
 > [justinbeeson@gmail.com](mailto:justinbeeson@gmail.com)  
 > [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
@@ -6,29 +6,30 @@
 
 ## Lead DevOps Engineer
 
-Results-oriented DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
+Results-oriented Lead DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
 ### KEY SKILLS & PROFICIENCIES
 
 |                                                 TECHNICAL SKILLS                                                 |                                                                                                                         CONCEPTS & METHODOLOGIES                                                                                                                          |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#, Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing |
+| PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#, Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
 
 ### PROFESSIONAL EXPERIENCE
 
 #### NUVASIVE, San Diego, CA
 
 **Lead DevOps Engineer** | _2022 - Present_  
-Direct all DevOps and build configuration efforts for the Surgical Intelligence product development team. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
+Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
 - Designed a 100% automated Azure deployment infrastructure for an App Service based product, enabling seamless, reproducible deployments to the cloud or local environment.
 - Built a scalable, Azure Pipelines solution for vulnerability scanning, including those listed in the OWASP Top 10 and CWE Top 25, across 100+ microservice-based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures identification of vulnerabilities within 24 hours of occurring, and enables quick mitigation.
-- Manage 40+ Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration, and administering git repositories and driving branching and merging processes.
+- Manage 40+ Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration.
+- Cultivate a culture of continuous learning and improvement, mentoring junior engineers and fostering their professional growth.
 
 **Senior DevOps Engineer** | _2018 - 2022_  
 Supported multiple software engineers and testers to develop build and release configurations for various systems. Advocated and educated colleagues, surgeons, and clinical associates on surgical automation products.
 
-- Created a 3-step automated imaging process and system configuration for Pulse, adhering 100% to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
+- Created a 3-step automated imaging process and system configuration for Pulse, adhering 100% to strict security standards (ISO 27001/UL 2900).
 - Architected a hybrid cloud and on-premises build and release pipeline system, maximizing efficiency while reducing cloud resource costs up to 80%.
 - Attended clinical cases during the Pulse evaluation phase, providing technical support and troubleshooting, and gathering first-hand feedback from surgeons and clinical associates.
 
