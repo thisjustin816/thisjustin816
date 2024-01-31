@@ -26,8 +26,7 @@ Results-oriented Lead DevOps Engineer with 14+ years in software development and
 **Lead DevOps Engineer**  
 _2022 - Present_
 
-
-Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
+Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
 - Designed a 100% automated Azure deployment infrastructure for an App Service based product, enabling seamless, reproducible deployments to the cloud or local environment.
 - Built a scalable, Azure Pipelines solution for vulnerability scanning, including those listed in the OWASP Top 10 and CWE Top 25, across 100+ microservice-based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures identification of vulnerabilities within 24 hours of occurring, and enables quick mitigation.
