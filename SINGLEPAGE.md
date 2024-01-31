@@ -29,7 +29,7 @@ Lead and manage the DevOps strategy and operations for the Surgical Intelligence
 **Senior DevOps Engineer** | _2018 - 2022_  
 Supported multiple software engineers and testers to develop build and release configurations for various systems. Advocated and educated colleagues, surgeons, and clinical associates on surgical automation products.
 
-- Created a 3-step automated imaging process and system configuration for Pulse, adhering 100% to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
+- Created a 3-step automated imaging process and system configuration for Pulse, adhering 100% to strict security standards (ISO 27001/UL 2900).
 - Architected a hybrid cloud and on-premises build and release pipeline system, maximizing efficiency while reducing cloud resource costs up to 80%.
 - Attended clinical cases during the Pulse evaluation phase, providing technical support and troubleshooting, and gathering first-hand feedback from surgeons and clinical associates.
 
