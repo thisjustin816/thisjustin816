@@ -4,19 +4,17 @@
 > [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
 > [github.com/thisjustin816](https://github.com/thisjustin816)  
 
-## Lead DevOps Engineer
-
 Results-oriented Lead DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
-### KEY SKILLS & PROFICIENCIES
+## KEY SKILLS & PROFICIENCIES
 
 |                                                 TECHNICAL SKILLS                                                 |                                                                                                                         CONCEPTS & METHODOLOGIES                                                                                                                          |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#, Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-#### NUVASIVE, San Diego, CA
+### NUVASIVE, San Diego, CA
 
 **Lead DevOps Engineer** | _2022 - Present_  
 Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
@@ -39,12 +37,11 @@ Developed system integration and regression test plans for Windows-based softwar
 - Implemented a comprehensive regression test plan for the NuVasive Remote Monitoring platform, resulting in 100% passing verification protocols on the first attempt.
 - Designed and created automated and manual test plans and guidelines for the Pulse Surgical Automation Platform, guaranteeing 100% requirements coverage.
 
-#### SAMSUNG ELECTRONICS AMERICA, Long Beach, CA
+### SAMSUNG ELECTRONICS AMERICA, Long Beach, CA
 
 **Associate/Senior Test Engineer** | _2009 – 2015_  
 Led geographically dispersed team of testers, achieving functional testing certification for multiple projects. Participated in functional testing verification, constantly improving and innovating testing strategies. Conducted technical specification and testing methodology seminars across organizational levels.
 
-### EDUCATION & CERTIFICATIONS
+## EDUCATION & CERTIFICATIONS
 
-**Bachelor of Science (BS), Computer Engineering** - _California State University, Long Beach_  
-[**Microsoft DEVOPS200.1x: DevOps Practices and Principles**](https://courses.edx.org/certificates/e7db67e18d0548e382af531a132f4165) - _edX_
+**Bachelor of Science (BS), Computer Engineering** - _California State University, Long Beach_
