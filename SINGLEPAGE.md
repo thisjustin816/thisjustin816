@@ -1,4 +1,4 @@
-# JUSTIN BEESON | Lead DevOps Engineer | San Diego, CA
+# JUSTIN BEESON | Lead Platform Engineer | DevOps, CI/CD, and IaC | San Diego, CA
 
 > [justinbeeson@gmail.com](mailto:justinbeeson@gmail.com)  
 > [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
@@ -10,13 +10,18 @@ Results-oriented Lead DevOps Engineer with 14+ years in software development and
 
 |                                                 TECHNICAL SKILLS                                                 |                                                                                                                         CONCEPTS & METHODOLOGIES                                                                                                                          |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#, Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
+| PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C#, Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
 
-### NUVASIVE, San Diego, CA
+### TIH, Charlotte, NC (Remote)
 
-**Lead DevOps Engineer** | _2022 - Present_  
+**Lead Platform Engineer** | _2024 - Present_
+Architect, build, and maintain continuous integration/continuous delivery framework services for software development teams, using Terraform, Azure DevOps, and the Azure cloud.
+
+### NUVASIVE (now Globus Medical), San Diego, CA
+
+**Lead DevOps Engineer** | _2022 - 2024_  
 Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
 - Designed a 100% automated Azure deployment infrastructure for an App Service based product, enabling seamless, reproducible deployments to the cloud or local environment.

@@ -5,26 +5,35 @@
 > [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
 > [github.com/thisjustin816](https://github.com/thisjustin816)  
 
-## Lead DevOps Engineer
+## Lead Platform Engineer | DevOps, CI/CD, and IaC
 
 Results-oriented Lead DevOps Engineer with 14+ years in software development and 7+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
 ## KEY SKILLS & PROFICIENCIES
 
-|                            |                                                                                                                                                                                                                                                                           |
-| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Programming and Scripting  | PowerShell, Python, Batch, Bash, YAML, Bicep, REST, C#                                                                                                                                                                                                                    |
-| Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                                                                                                                                                                                  |
+|                            |                                                                                                                                                                                                                                                                                                               |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Programming and Scripting  | PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C#                                                                                                                                                                                                                                             |
+| Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                                                                                                                                                                                                                      |
 | Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
 
-### NUVASIVE, San Diego, CA
+### TIH, Charlotte, NC (Remote)
+
+------
+
+**Lead Platform Engineer**
+_2024 - Present_
+
+Architect, build, and maintain continuous integration/continuous delivery framework services for software development teams, using Terraform, Azure DevOps, and the Azure cloud.
+
+### NUVASIVE (now Globus Medical), San Diego, CA
 
 ------
 
 **Lead DevOps Engineer**  
-_2022 - Present_
+_2022 - 2024_
 
 Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
 
