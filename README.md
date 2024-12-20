@@ -4,7 +4,7 @@
 > [justinbeeson@gmail.com](mailto:justinbeeson@gmail.com)  
 > [linkedin.com/in/justinbeeson](https://www.linkedin.com/in/justinbeeson)  
 > [github.com/thisjustin816](https://github.com/thisjustin816)  
-> [https://www.powershellgallery.com/profiles/thisJUSTin816](https://www.powershellgallery.com/profiles/thisJUSTin816)
+> [powershellgallery.com/profiles/thisJUSTin816](https://www.powershellgallery.com/profiles/thisJUSTin816)
 
 ## Lead Platform Engineer | DevOps, CI/CD, and IaC
 
