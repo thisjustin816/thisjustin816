@@ -113,3 +113,8 @@ _[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcr
 | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
 | [**Microsoft DEVOPS200.1x: DevOps Practices and Principles**](https://courses.edx.org/certificates/e7db67e18d0548e382af531a132f4165) | _edX_           |
 | Ranorex Advanced Training                                                                                                            | Cprime Learning |
+
+------
+
+_This resume was generated from Markdown using GitHub Actions:_  
+[![CI](https://github.com/thisjustin816/thisjustin816/actions/workflows/ci.yml/badge.svg)](https://github.com/thisjustin816/thisjustin816/actions/workflows/ci.yml)
