@@ -42,6 +42,6 @@ Led a geographically dispersed team of testers, achieving functional testing cer
 **PowerShell Modules & Utilities**  
 PowerShell modules published to [GitHub](https://github.com/thisjustin816) and [PSGallery](https://www.powershellgallery.com/profiles/thisJUSTin816), including `AzdOCmd`, `JBUtils`, and `PSModuleUtils`. The modules contain functions and utilities for Azure DevOps, CI/CD pipelines, and general PowerShell tasks.
 
-## EDUCATION & CERTIFICATIONS
+## EDUCATION
 
 **Bachelor of Science (BS), Computer Engineering** - _California State University, Long Beach_

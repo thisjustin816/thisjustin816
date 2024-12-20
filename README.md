@@ -93,17 +93,11 @@ Participated in functional testing verification, constantly improving and innova
 
 PowerShell modules published to the [PSGallery](https://www.powershellgallery.com/profiles/thisJUSTin816). The modules contain functions and utilities for Azure DevOps, CI/CD pipelines, and general PowerShell tasks.
 
-[**AzdOCmd**](https://github.com/thisjustin816/AzDO)
-
-PowerShell-based tooling to interact with the Azure DevOps REST API, enabling automation of common tasks such as creating work items, querying build definitions, and more.
-
-[**JBUtils**](https://github.com/thisjustin816/JBUtils)
-
-A set of lower-level functions and utilities for PowerShell, like enabling TLS 1.2, improved process handling, and more.
-
-[**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils)
-
-PowerShell helper functions that make it easier to build and publish PowerShell modules to the PowerShell Gallery, including automating testing, analysis, and creating GitHub releases.
+| Project | Description |
+| :------ | :---------- |
+| [**AzdOCmd**](https://github.com/thisjustin816/AzDO) | PowerShell-based tooling to interact with the Azure DevOps REST API, enabling automation of common tasks such as creating work items, querying build definitions, and more. |
+| [**JBUtils**](https://github.com/thisjustin816/JBUtils) | A set of lower-level functions and utilities for PowerShell, like enabling TLS 1.2, improved process handling, and more. |
+| [**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils) | PowerShell helper functions that make it easier to build and publish PowerShell modules to the PowerShell Gallery, including automating testing, analysis, and creating GitHub releases. |
 
 ## EDUCATION
 
@@ -119,8 +113,3 @@ _[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcr
 | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
 | [**Microsoft DEVOPS200.1x: DevOps Practices and Principles**](https://courses.edx.org/certificates/e7db67e18d0548e382af531a132f4165) | _edX_           |
 | Ranorex Advanced Training                                                                                                            | Cprime Learning |
-
-------
-
-_This resume was generated from Markdown using GitHub Actions:_  
-[![CI](https://github.com/thisjustin816/thisjustin816/actions/workflows/ci.yml/badge.svg)](https://github.com/thisjustin816/thisjustin816/actions/workflows/ci.yml)
