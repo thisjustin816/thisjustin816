@@ -20,7 +20,7 @@ Results-oriented Lead DevOps Engineer with 15+ years in software development and
 
 ## PROFESSIONAL EXPERIENCE
 
-### TIH, Charlotte, NC (Remote)
+### CRC GROUP, Charlotte, NC (Remote)
 
 ------
 
