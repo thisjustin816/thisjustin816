@@ -13,7 +13,7 @@ Results-oriented Lead DevOps Engineer with 15+ years in software development and
 
 ## PROFESSIONAL EXPERIENCE
 
-### TIH, Charlotte, NC (Remote)
+### CRC GROUP, Charlotte, NC (Remote)
 
 **Lead Platform Engineer** | _2024 - Present_
 Architect, build, and maintain continuous integration/continuous delivery framework services for software development teams, using Terraform, Azure DevOps, and the Azure cloud.
