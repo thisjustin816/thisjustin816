@@ -12,7 +12,7 @@ Remove-Item -Path "$($outDirectory.FullName)/$Name-resume*" -Force -ErrorAction 
 
 $sameWindow = @{
     NoNewWindow = $true
-    Wait = $true
+    Wait        = $true
 }
 if (!( Get-Command -Name 'md-to-pdf.cmd' -ErrorAction SilentlyContinue )) {
     Start-Process `
@@ -32,9 +32,9 @@ foreach ($file in $source) {
     Start-Process `
         -FilePath 'md-to-pdf.cmd' `
         -ArgumentList @(
-            '--config-file', 'readme-config.json',
-            $file.FullName
-        ) `
+        '--config-file', 'readme-config.json',
+        $file.FullName
+    ) `
         @sameWindow
     
     $pdfResume = Get-Item -Path $file.FullName.Replace('.md', '.pdf') |

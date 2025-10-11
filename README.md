@@ -8,7 +8,7 @@
 
 ## Lead Platform Engineer | DevOps, CI/CD, and IaC
 
-Results-oriented Lead DevOps Engineer with 15+ years in software development and 8+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
+Results-oriented Lead DevOps Engineer with 16+ years in software development and 9+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
 
 ## KEY SKILLS & PROFICIENCIES
 
@@ -27,9 +27,10 @@ Results-oriented Lead DevOps Engineer with 15+ years in software development and
 **Lead Platform Engineer**  
 _2024 - Present_
 
-Architect, build, and maintain continuous integration/continuous delivery framework services for software development teams, using Terraform, Azure DevOps, and the Azure cloud.
+Architect, build, and maintain continuous integration/continuous delivery framework services for software development teams across 30+ lines of business and projects, using Terraform, Azure DevOps, and the Azure cloud.
 
 - Developed an automated drift reporting system for 2000+ Terraform IaC pipelines, enabling quick identification and remediation of configuration drift by updating a shared dashboard and filing work items in Azure DevOps.
+- Created automated tooling via Terraform and PowerShell to migrate batches of virtual machines across Azure tenants, reducing manual errors and wait times by up to 90%.
 
 ### NUVASIVE (now Globus Medical), San Diego, CA
 
