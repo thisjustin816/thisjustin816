@@ -10,15 +10,8 @@ $source = @( Get-Item -Path $FilePath )
 $outDirectory = New-Item -Path $Destination -ItemType Directory -Force
 Remove-Item -Path "$($outDirectory.FullName)/$Name-resume*" -Force -ErrorAction SilentlyContinue
 
-$sameWindow = @{
-    NoNewWindow = $true
-    Wait        = $true
-}
-if (!( Get-Command -Name 'md-to-pdf.cmd' -ErrorAction SilentlyContinue )) {
-    Start-Process `
-        -FilePath 'npm' `
-        -ArgumentList 'i -g md-to-pdf' `
-        @sameWindow
+if (!(Get-Command -Name 'npx' -ErrorAction SilentlyContinue)) {
+    throw 'npx is not installed or not in PATH. Please install Node.js with npm.'
 }
 
 foreach ($file in $source) {
@@ -29,18 +22,23 @@ foreach ($file in $source) {
         "$Name-resume_$Version"
     }
 
-    Start-Process `
-        -FilePath 'md-to-pdf.cmd' `
-        -ArgumentList @(
-        '--config-file', 'readme-config.json',
-        $file.FullName
-    ) `
-        @sameWindow
-    
+    Write-Verbose "Converting $($file.Name) to PDF..."
+    $configPath = Join-Path $PSScriptRoot 'readme-config.json'
+    if (-not ( Test-Path $configPath )) {
+        throw "Configuration file not found: $configPath"
+    }
+
+    Write-Verbose "Using config file: $configPath"
+    $result = npx md-to-pdf --config-file $configPath $file.FullName 2>&1
+
+    if ($LASTEXITCODE -ne 0) {
+        throw "md-to-pdf failed: $result"
+    }
+
     $pdfResume = Get-Item -Path $file.FullName.Replace('.md', '.pdf') |
         Rename-Item -NewName "$fileName.pdf" -PassThru -Force
-    
-    if (!( Get-ChildItem -Path $outDirectory.FullName -Filter $pdfResume.Name )) {
+
+    if (-not ( Get-ChildItem -Path $outDirectory.FullName -Filter $pdfResume.Name )) {
         Move-Item -Path $pdfResume.FullName -Destination $outDirectory.FullName -PassThru -Force
     }
     else {
