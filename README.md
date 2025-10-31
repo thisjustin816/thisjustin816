@@ -6,17 +6,19 @@
 > [github.com/thisjustin816](https://github.com/thisjustin816)  
 > [powershellgallery.com/profiles/thisJUSTin816](https://www.powershellgallery.com/profiles/thisJUSTin816)
 
-## Lead Platform Engineer | DevOps, CI/CD, and IaC
+## Lead Platform Engineer | DevOps, Data Infrastructure, and Cloud Automation
 
-Results-oriented Lead DevOps Engineer with 16+ years in software development and 9+ years accelerating software delivery using DevOps methodologies. Proven leadership in guiding agile teams, managing development software budgets, and mentoring junior engineers. Skilled in utilizing Infrastructure as Code (IaC), CI/CD pipelines, and cloud technologies to streamline operations and optimize costs. Highly adaptable and eager to learn new technologies as needed to deliver high-quality solutions. Excellent communicator, bridging technical gaps for any audience.
+Lead Platform Engineer with 16+ years in software development and 9+ years specializing in DevOps, infrastructure automation, and cloud engineering. Expert in building scalable, compliant systems that accelerate software delivery and improve reliability across complex environments.
+
+Proven success supporting healthcare and surgical planning platforms in regulated settings, with deep experience in Azure, Terraform, CI/CD, and data-centric cloud automation. Strong communicator skilled at bridging technical and clinical needs to deliver secure, reproducible solutions that meet HIPAA and FDA standards.
 
 ## KEY SKILLS & PROFICIENCIES
 
-|                            |                                                                                                                                                                                                                                                                                                               |
-| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Programming and Scripting  | PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C#                                                                                                                                                                                                                                             |
-| Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                                                                                                                                                                                                                      |
-| Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Agile Methodologies, Scrum, Software Development Life Cycle (SDLC), DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting & Problem Solving, Quality Assurance & Testing, Budget Management, Team Leadership |
+|                            |                                                                                                                                                                                                                                                                                                   |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Programming and Scripting  | PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C#                                                                                                                                                                                                                                 |
+| Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                                                                                                                                                                                                          |
+| Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Cloud Architecture, Data Pipelines, Agile Methodologies, DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting, Quality Assurance & Testing, Regulatory Compliance (HIPAA, FDA), Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -27,10 +29,10 @@ Results-oriented Lead DevOps Engineer with 16+ years in software development and
 **Lead Platform Engineer**  
 _2024 - Present_
 
-Architect, build, and maintain continuous integration/continuous delivery framework services for software development teams across 30+ lines of business and projects, using Terraform, Azure DevOps, and the Azure cloud.
+Architect, build, and maintain CI/CD and infrastructure automation for 30+ development teams across diverse software products using Terraform, Azure DevOps, and the Azure cloud. Collaborate with cross-functional engineering teams to ensure consistent, auditable infrastructure standards that support secure data processing and analytics workflows.
 
-- Developed an automated drift reporting system for 2000+ Terraform IaC pipelines, enabling quick identification and remediation of configuration drift by updating a shared dashboard and filing work items in Azure DevOps.
-- Created automated tooling via Terraform and PowerShell to migrate batches of virtual machines across Azure tenants, reducing manual errors and wait times by up to 90%.
+- Developed an automated drift reporting system for 2,000+ Terraform IaC pipelines, enabling proactive detection and remediation of configuration drift through shared dashboards and automated ticket creation.  
+- Built PowerShell and Terraform-based tooling to migrate batches of virtual machines across Azure tenants, reducing manual intervention and wait times by up to 90% while improving reliability.
 
 ### NUVASIVE (now Globus Medical), San Diego, CA
 
@@ -39,74 +41,71 @@ Architect, build, and maintain continuous integration/continuous delivery framew
 **Lead DevOps Engineer**  
 _2022 - 2024_
 
-Lead and manage the DevOps strategy and operations for the Surgical Intelligence product development team, overseeing a significant development software budget. Collaborate with software teams to create custom development tooling and infrastructure. Mentor and train team members on DevOps best practices, Azure Pipelines, and PowerShell.
+Led DevOps strategy and operations for the Surgical Intelligence product suite, supporting advanced surgical planning platforms and AI-assisted decision systems for personalized spine surgery. Oversaw cloud infrastructure, CI/CD automation, and data workflows across highly regulated software environments.
 
-- Designed a 100% automated Azure deployment infrastructure for an App Service-based product, enabling seamless, reproducible deployments to the cloud or local environment.
-- Built a scalable Azure Pipelines solution for vulnerability scanning, including those listed in the OWASP Top 10 and CWE Top 25, across 100+ microservice-based repositories and pipelines, utilizing OWASP Dependency Check and SonarCloud. This ensures identification of vulnerabilities within 24 hours of occurring and enables quick mitigation.
-- Manage 40+ Azure DevOps projects across R&D, creating custom work processes to foster cross-functional collaboration, administering git repositories, and driving branching and merging processes.
-- Manage a quarter-million-dollar budget for software development tools and cloud resources, optimizing spend and maximizing ROI.
-- Cultivate a culture of continuous learning and improvement, mentoring junior engineers and fostering their professional growth.
+- Designed a 100% automated Azure deployment framework for App Service-based applications, enabling fully reproducible and compliant builds for R&D and production environments.  
+- Implemented scalable pipelines for vulnerability and compliance scanning (OWASP, CWE) and ensured adherence to ISO 27001 and UL 2900 standards across 100+ microservice repositories, reducing vulnerability response time from weeks to hours.  
+- Partnered with software and clinical engineering teams to maintain stable, secure environments for data-intensive healthcare software.  
+- Managed a $250K annual software and cloud budget, optimizing spend and resource allocation.
 
 **Senior DevOps Engineer**  
 _2018 - 2022_
 
-Supported multiple software engineers and testers to develop build and release configurations for various systems. Advocated and educated colleagues, surgeons, and clinical associates on surgical automation products.
+Supported the development of the Pulse Surgical Automation Platform, enabling imaging-based surgical workflows and device connectivity in clinical settings. Drove automation, hybrid cloud design, and data management for product development and testing environments.
 
-- Created a 3-step automated imaging process and system configuration for Pulse, adhering 100% to strict security standards (ISO 27001/UL 2900) by implementing features such as Windows Defender Application Control, BitLocker drive encryption, custom firewall rules, and BIOS security.
-- Designed the network configuration for the Pulse Surgical Automation Platform, enabling seamless connectivity for peripheral devices and wireless clients.
-- Architected a hybrid cloud and on-premises build and release pipeline system, maximizing efficiency while reducing cloud resource costs by up to 80%.
-- Attended clinical cases during the Pulse evaluation phase, providing technical support and troubleshooting, and gathering first-hand feedback from surgeons and clinical associates.
+- Created a 3-step automated imaging and configuration system adhering to strict cybersecurity and quality standards, supporting medical image and data workflows.  
+- Designed network and hybrid cloud configurations for Pulse, optimizing performance for data capture, visualization, and connectivity with surgical devices.  
+- Architected an on-prem/cloud hybrid build and release system that reduced compute costs by up to 80% and improved release traceability.  
+- Collaborated directly with clinical and R&D teams during live surgical cases to troubleshoot, collect data, and validate performance of imaging and data processing systems.
 
 **Test Engineer**  
 _2016 - 2018_
 
-Developed system integration and regression test plans for Windows-based software, web applications, and services within an Agile environment. Coordinated test engineers from multiple Scrum teams. Built tools and scripts for automated performance and load testing.
+Developed and executed system integration and regression testing for Windows-based and web-based clinical applications within Agile environments. Designed tools and test automation to validate imaging, connectivity, and performance requirements for surgical platforms.
 
-- Implemented a comprehensive regression test plan for the NuVasive Remote Monitoring platform, resulting in 100% passing verification protocols on the first attempt.
-- Designed and created automated and manual test plans and guidelines for the Pulse Surgical Automation Platform, guaranteeing 100% requirements coverage.
+- Authored and maintained regression and integration tests ensuring full verification coverage for clinical and regulatory requirements.  
+- Designed automated performance test suites for imaging and data-heavy applications, reducing manual effort and improving reproducibility.
 
 ### SAMSUNG ELECTRONICS AMERICA, Long Beach, CA
 
 ------
 
 **Senior Test Engineer**  
-_2013 – 2015_
+_2013 - 2015_
 
-Led a geographically dispersed team of testers, achieving functional testing certification for multiple projects. Set up, maintained, and reported on automated testing racks for legacy and current projects. Conducted technical specification and testing methodology seminars across organizational levels.
+Led testing efforts for embedded media and set-top box systems, ensuring performance, reliability, and compatibility across multiple hardware platforms. Managed geographically distributed testing teams and developed automated test infrastructure.
 
-- Supported development and release of 6 DIRECTV projects (Set-Top Boxes H24, HR24, HR44, HR54, SH10, and 2015 RVU TVs), meeting all testing deadlines.
-- Created automated testing scripts that debugged field and development issues, increasing testing efficiency and reducing execution time by up to 50%.
-- Assisted in constructing and maintaining automated test racks supporting 200+ units, enabling remote monitoring and upkeep.
-- Implemented and oversaw a highly accelerated life test (HALT) on several projects, fulfilling production requirements.
+- Created automated test scripts that reduced execution time by 50% and improved debugging accuracy.  
+- Maintained automated test racks for 200+ units, enabling remote monitoring, test execution, and maintenance.  
+- Coordinated functional certification for 6 DIRECTV hardware projects (H24, HR24, HR44, HR54, SH10, and 2015 RVU TVs), meeting all testing deadlines.
 
 **Test Engineer**  
-_2009 – 2013_
+_2009 - 2013_
 
-Participated in functional testing verification, constantly improving and innovating testing strategies. Analyzed and reported field issues, providing detailed defect information using bug tracking systems. Reported automated testing rack results.
+Performed functional and user interface testing for embedded media software and hardware systems. Partnered with global engineering teams to validate system reliability and user experience.
 
-- Helped develop comprehensive user interface testing procedures for 2 projects, enabling early tracking of failures.
-- Collaborated with hardware and software vendors during development and release, achieving functional testing certification for all projects.
-- Worked closely with engineers in Korea and Brazil, embracing a multinational business culture and delivering 24/7 testing results.
+- Developed detailed UI testing procedures and automated validation workflows, reducing regression cycle times by 40%.  
+- Collaborated with hardware and software teams in the U.S., Korea, and Brazil to deliver 24/7 test coverage and achieve functional certification for multiple releases.
 
 ## PERSONAL PROJECTS
 
-### PowerShell
+### PowerShell & Data Automation
 
-PowerShell modules published to the [PSGallery](https://www.powershellgallery.com/profiles/thisJUSTin816). The modules contain functions and utilities for Azure DevOps, CI/CD pipelines, and general PowerShell tasks.
+PowerShell modules published to the [PSGallery](https://www.powershellgallery.com/profiles/thisJUSTin816), including utilities for automation, data processing, and CI/CD integration.
 
-| Project | Description |
-| :------ | :---------- |
-| [**AzdOCmd**](https://github.com/thisjustin816/AzDO) | PowerShell-based tooling to interact with the Azure DevOps REST API, enabling automation of common tasks such as creating work items, querying build definitions, and more. |
-| [**JBUtils**](https://github.com/thisjustin816/JBUtils) | A set of lower-level functions and utilities for PowerShell, like enabling TLS 1.2, improved process handling, and more. |
-| [**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils) | PowerShell helper functions that make it easier to build and publish PowerShell modules to the PowerShell Gallery, including automating testing, analysis, and creating GitHub releases. |
+|                               Project                               |                                                               Description                                                               |
+| :------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| [**AzdOCmd**](https://github.com/thisjustin816/AzDO)                | PowerShell-based tooling to interact with the Azure DevOps REST API, automating reporting, data queries, and build metadata collection. |
+| [**JBUtils**](https://github.com/thisjustin816/JBUtils)             | Utilities for PowerShell including process management and data handling improvements.                                                   |
+| [**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils) | Functions that automate building, testing, and publishing PowerShell modules, supporting CI/CD pipelines.                               |
 
 ## EDUCATION
 
 **Bachelor of Science (BS), Computer Engineering**  
 _California State University, Long Beach_
 
-**Courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and GitHub Actions, Python, Terraform, AWS, and more**  
-_[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn), [Pluralsight](https://app.pluralsight.com/profile/justin-beeson), [Coursera](https://www.coursera.org/user/b6fcbd197190b1aada7a9caab88276b6), etc._
+**Courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and GitHub Actions, Python, Terraform, AWS, and data engineering concepts**  
+_[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn), [Pluralsight](https://app.pluralsight.com/profile/justin-beeson), [Coursera](https://www.coursera.org/user/b6fcbd197190b1aada7a9caab88276b6)_
 
 ## LICENSES & CERTIFICATIONS
 
