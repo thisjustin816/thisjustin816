@@ -25,7 +25,7 @@ Architect, build, and maintain CI/CD and infrastructure automation for 30+ devel
 
 ### NUVASIVE (now Globus Medical), San Diego, CA
 
-**Senior / Lead DevOps Engineer** | _2018 - 2024_  
+**Senior / Lead DevOps Engineer** | _2016 - 2024_  
 Led DevOps strategy and operations for the Surgical Intelligence product suite, supporting advanced surgical planning platforms and AI-assisted decision systems.
 
 - Designed a 100% automated Azure deployment framework for App Service-based applications, enabling reproducible and compliant builds.  
