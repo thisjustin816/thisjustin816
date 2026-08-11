@@ -6,28 +6,47 @@
 > [github.com/thisjustin816](https://github.com/thisjustin816)  
 > [powershellgallery.com/profiles/thisJUSTin816](https://www.powershellgallery.com/profiles/thisJUSTin816)
 
-## Lead Platform Engineer | DevOps, Data Infrastructure, and Cloud Automation
+## Platform Engineer | DevOps, Data Infrastructure, and Cloud Automation
 
-Lead Platform Engineer with 16+ years in software development and 9+ years specializing in DevOps, infrastructure automation, and cloud engineering. Expert in building scalable, compliant systems that accelerate software delivery and improve reliability across complex environments.
+Platform Engineer with 17+ years in software development and 9+ years specializing in DevOps, infrastructure automation, and cloud engineering. Expert in building scalable, compliant systems that accelerate software delivery and improve reliability across complex environments.
 
-Proven success supporting healthcare and surgical planning platforms in regulated settings, with deep experience in Azure, Terraform, CI/CD, and data-centric cloud automation. Strong communicator skilled at bridging technical and clinical needs to deliver secure, reproducible solutions that meet HIPAA and FDA standards.
+Proven success supporting healthcare and surgical planning platforms in regulated settings, with deep experience across Azure and AWS, Terraform, CI/CD, and data-centric cloud automation. Strong communicator skilled at bridging technical and clinical needs to deliver secure, reproducible solutions that meet HIPAA and FDA standards.
 
 ## KEY SKILLS & PROFICIENCIES
 
-|                            |                                                                                                                                                                                                                                                                                                   |
-| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Programming and Scripting  | PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C#                                                                                                                                                                                                                                 |
-| Software                   | Azure DevOps, Azure, Visual Studio, VS Code, Git, GitHub                                                                                                                                                                                                                                          |
-| Concepts and Methodologies | Continuous Integration/Continuous Delivery (CI/CD), Infrastructure as Code (IaC), Cloud Architecture, Data Pipelines, Agile Methodologies, DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting, Quality Assurance & Testing, Regulatory Compliance (HIPAA, FDA), Team Leadership |
+| Programming & Scripting                                           | Cloud & Platform                                                        | Concepts & Methodologies                                                                                                                                                                                                 |
+| :---------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C# | Azure, Azure DevOps, AWS, TeamCity, Visual Studio, VS Code, Git, GitHub | CI/CD, Infrastructure as Code (IaC), Cloud Architecture, Data Pipelines, Agile Methodologies, DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting, QA & Testing, HIPAA, FDA, ISO 27001, Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
+
+### CARLSMED, Carlsbad, CA
+
+------
+
+**Platform Engineer**  
+_2026 - Present_
+
+Building Carlsmed's internal developer platform, bridging software delivery and AWS infrastructure through shared tooling, CI/CD, and infrastructure as code, in partnership with IT/DevOps.
+
+- Building an internal developer platform with CLI-driven tooling for local build/test workflows and CI/CD deployment scripting, reducing environment-setup and delivery friction across engineering teams.
+- Facilitated organization-wide adoption of an automated security scanning platform (SAST/SCA/DAST) integrated into CI/CD, supporting ISO 27001 compliance objectives across the repository fleet.
+- Built an internal package-registry and artifact-distribution system with defined publish pipelines across multiple product lines.
+
+**Lead Data Engineer**  
+_2026_
+
+Delivered Carlsmed's first working data-platform proof of concept and built analytics that directly informed infrastructure and product-development decisions.
+
+- Delivered the first working proof of concept for the data platform: a medallion-architecture (bronze/silver/gold) data lake on S3 with AWS Glue ETL, a Glue Data Catalog, and Step Functions-orchestrated pipelines processing medical imaging (DICOM) data.
+- Built an analytics pipeline for the myaprevo platform that directly informed infrastructure and product-development decisions.
 
 ### CRC GROUP, Charlotte, NC (Remote)
 
 ------
 
 **Lead Platform Engineer**  
-_2024 - Present_
+_2024 - 2026_
 
 Architect, build, and maintain CI/CD and infrastructure automation for 30+ development teams across diverse software products using Terraform, Azure DevOps, and the Azure cloud. Collaborate with cross-functional engineering teams to ensure consistent, auditable infrastructure standards that support secure data processing and analytics workflows.
 
