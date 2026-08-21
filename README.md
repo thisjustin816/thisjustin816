@@ -10,13 +10,13 @@
 
 Platform Engineer with 17+ years in software development and 9+ years specializing in DevOps, infrastructure automation, and cloud engineering. Expert in building scalable, compliant systems that accelerate software delivery and improve reliability across complex environments.
 
-Proven success supporting healthcare and surgical planning platforms in regulated settings, with deep experience across Azure and AWS, Terraform, CI/CD, and data-centric cloud automation. Strong communicator skilled at bridging technical and clinical needs to deliver secure, reproducible solutions that meet HIPAA and FDA standards.
+Proven success supporting healthcare and surgical planning platforms in regulated settings, with deep experience across Azure and AWS, Terraform, CI/CD, internal developer platforms, and data-centric cloud automation. Strong communicator skilled at bridging technical and clinical needs to deliver secure, reproducible solutions that meet HIPAA and FDA standards.
 
 ## KEY SKILLS & PROFICIENCIES
 
 | Programming & Scripting                                           | Cloud & Platform                                                        | Concepts & Methodologies                                                                                                                                                                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C# | Azure, Azure DevOps, AWS, TeamCity, Visual Studio, VS Code, Git, GitHub | CI/CD, Infrastructure as Code (IaC), Cloud Architecture, Data Pipelines, Agile Methodologies, DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting, QA & Testing, HIPAA, FDA, ISO 27001, Team Leadership |
+| PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C# | Azure, Azure DevOps, AWS, TeamCity, Visual Studio, VS Code, Git, GitHub | CI/CD, Infrastructure as Code (IaC), Internal Developer Platforms, Cloud Architecture, Data Pipelines, Observability & Monitoring, Release Management, Agile Methodologies, DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting, QA & Testing, HIPAA, FDA, ISO 27001, Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -27,11 +27,15 @@ Proven success supporting healthcare and surgical planning platforms in regulate
 **Platform Engineer**  
 _2026 - Present_
 
-Building Carlsmed's internal developer platform, bridging software delivery and AWS infrastructure through shared tooling, CI/CD, and infrastructure as code, in partnership with IT/DevOps.
+Building Carlsmed's internal developer platform, bridging software delivery and AWS infrastructure through shared tooling, CI/CD, and infrastructure as code, in partnership with IT/DevOps. Define what each application needs to build, deploy, run, monitor, and recover, then turn those needs into reusable patterns instead of per-team coordination.
 
 - Building an internal developer platform with CLI-driven tooling for local build/test workflows and CI/CD deployment scripting, reducing environment-setup and delivery friction across engineering teams.
+- Author reusable Terraform modules and environment definitions on AWS, keeping application requirements and infrastructure assumptions aligned across compute, networking, identity/access, and secrets.
+- Established shared conventions for environment configuration, secrets, and feature flags, along with health checks, logging, monitoring, alerting, and rollback paths, and run operational-readiness reviews for new services and significant releases.
+- Develop and operate AWS Glue, Step Functions, and EventBridge workflows covering scheduling, dependency handling, recovery, data quality, and production support.
 - Facilitated organization-wide adoption of an automated security scanning platform (SAST/SCA/DAST) integrated into CI/CD, supporting ISO 27001 compliance objectives across the repository fleet.
 - Built an internal package-registry and artifact-distribution system with defined publish pipelines across multiple product lines.
+- Maintain deployment checklists, service templates, runbooks, and architecture guidance, converting recurring handoff friction into automation and self-service capabilities.
 
 **Lead Data Engineer**  
 _2026_
@@ -108,15 +112,16 @@ Performed functional and user interface testing for embedded media software and 
 
 ## PERSONAL PROJECTS
 
-### PowerShell & Data Automation
+### Open Source Modules & Automation Tooling
 
-PowerShell modules published to the [PSGallery](https://www.powershellgallery.com/profiles/thisJUSTin816), including utilities for automation, data processing, and CI/CD integration.
+PowerShell modules published to the [PSGallery](https://www.powershellgallery.com/profiles/thisJUSTin816) plus a maintained Terraform module, covering automation, data processing, cloud naming standards, and CI/CD integration.
 
-|                               Project                               |                                                               Description                                                               |
-| :------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| [**AzdOCmd**](https://github.com/thisjustin816/AzDO)                | PowerShell-based tooling to interact with the Azure DevOps REST API, automating reporting, data queries, and build metadata collection. |
-| [**JBUtils**](https://github.com/thisjustin816/JBUtils)             | Utilities for PowerShell including process management and data handling improvements.                                                   |
-| [**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils) | Functions that automate building, testing, and publishing PowerShell modules, supporting CI/CD pipelines.                               |
+|                                      Project                                      |                                                                        Description                                                                        |
+| :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**AzDOCmd**](https://github.com/thisjustin816/AzDO)                              | PowerShell-based tooling to interact with the Azure DevOps REST API, automating reporting, data queries, and build metadata collection.                   |
+| [**JBUtils**](https://github.com/thisjustin816/JBUtils)                           | Utilities for PowerShell including process management and data handling improvements.                                                                     |
+| [**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils)               | Functions that automate building, testing, and publishing PowerShell modules, supporting CI/CD pipelines.                                                 |
+| [**terraform-null-label**](https://github.com/thisjustin816/terraform-null-label) | Terraform module for consistent labels and provider-aware AWS and Azure resource names, with per-service naming rules and an automated release workflow. |
 
 ## EDUCATION
 
@@ -125,13 +130,6 @@ _California State University, Long Beach_
 
 **Courses on PowerShell, Azure, Bicep, Kubernetes, Azure Kubernetes Service (AKS), Azure Pipelines and GitHub Actions, Python, Terraform, AWS, and data engineering concepts**  
 _[Microsoft Learn](https://learn.microsoft.com/en-us/users/thisjustin816/transcript/dr5z9fkwwpnygjn), [Pluralsight](https://app.pluralsight.com/profile/justin-beeson), [Coursera](https://www.coursera.org/user/b6fcbd197190b1aada7a9caab88276b6)_
-
-## LICENSES & CERTIFICATIONS
-
-|                                                                                                                                      |                 |
-| :----------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
-| [**Microsoft DEVOPS200.1x: DevOps Practices and Principles**](https://courses.edx.org/certificates/e7db67e18d0548e382af531a132f4165) | _edX_           |
-| Ranorex Advanced Training                                                                                                            | Cprime Learning |
 
 ------
 
