@@ -6,5 +6,12 @@
       "bottom": "5mm",
       "left": "5mm"
     }
+  },
+  "launch_options": {
+    "args": [
+      "--password-store=basic",
+      "--no-first-run",
+      "--no-default-browser-check"
+    ]
   }
 }

@@ -8,15 +8,15 @@
 
 ## Platform Engineer | DevOps, Data Infrastructure, and Cloud Automation
 
-Platform Engineer with 17+ years in software development and 9+ years specializing in DevOps, infrastructure automation, and cloud engineering. Expert in building scalable, compliant systems that accelerate software delivery and improve reliability across complex environments.
+Platform Engineer with 17+ years in software development and 8+ years specializing in DevOps, internal developer platforms, and cloud engineering. Build the shared tooling, pipelines, and infrastructure patterns that move application teams from commit to production in regulated environments.
 
-Proven success supporting healthcare and surgical planning platforms in regulated settings, with deep experience across Azure and AWS, Terraform, CI/CD, internal developer platforms, and data-centric cloud automation. Strong communicator skilled at bridging technical and clinical needs to deliver secure, reproducible solutions that meet HIPAA and FDA standards.
+Work has centered on healthcare and medical device software: surgical planning platforms, AI-assisted decision systems, and medical imaging pipelines built to HIPAA, FDA, and ISO 27001 standards. Experience spans Azure and AWS with Terraform, CI/CD, and data-centric automation, translating between application, infrastructure, and clinical teams.
 
 ## KEY SKILLS & PROFICIENCIES
 
-| Programming & Scripting                                           | Cloud & Platform                                                        | Concepts & Methodologies                                                                                                                                                                                                 |
-| :---------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C# | Azure, Azure DevOps, AWS, TeamCity, Visual Studio, VS Code, Git, GitHub | CI/CD, Infrastructure as Code (IaC), Internal Developer Platforms, Cloud Architecture, Data Pipelines, Observability & Monitoring, Release Management, Agile Methodologies, DevOps Toolchains, DevSecOps, Networking & Security, Troubleshooting, QA & Testing, HIPAA, FDA, ISO 27001, Team Leadership |
+| Programming & Scripting                                           | Cloud & Platform                                                        | Concepts & Methodologies                                                                                                                                                                                                                                                                               |
+| :---------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PowerShell, Terraform, Python, Batch, Bash, YAML, Bicep, REST, C# | Azure, Azure DevOps, AWS, GitHub Actions, TeamCity, Docker, Git, GitHub | CI/CD, Infrastructure as Code (IaC), Internal Developer Platforms, Cloud Architecture, Data Pipelines, Observability & Monitoring, Release Management, Secrets Management, Agile Methodologies, DevSecOps, Networking & Security, Troubleshooting, QA & Testing, HIPAA, FDA, ISO 27001, Team Leadership |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -27,23 +27,20 @@ Proven success supporting healthcare and surgical planning platforms in regulate
 **Platform Engineer**  
 _2026 - Present_
 
-Building Carlsmed's internal developer platform, bridging software delivery and AWS infrastructure through shared tooling, CI/CD, and infrastructure as code, in partnership with IT/DevOps. Define what each application needs to build, deploy, run, monitor, and recover, then turn those needs into reusable patterns instead of per-team coordination.
+Bridge application development and AWS delivery in partnership with IT/DevOps, covering Terraform modules, environment configuration and secrets, observability and operational readiness, and data orchestration.
 
-- Building an internal developer platform with CLI-driven tooling for local build/test workflows and CI/CD deployment scripting, reducing environment-setup and delivery friction across engineering teams.
-- Author reusable Terraform modules and environment definitions on AWS, keeping application requirements and infrastructure assumptions aligned across compute, networking, identity/access, and secrets.
-- Established shared conventions for environment configuration, secrets, and feature flags, along with health checks, logging, monitoring, alerting, and rollback paths, and run operational-readiness reviews for new services and significant releases.
-- Develop and operate AWS Glue, Step Functions, and EventBridge workflows covering scheduling, dependency handling, recovery, data quality, and production support.
+- Building Carlsmed's internal developer platform with CLI-driven tooling for local build/test workflows and CI/CD deployment scripting, reducing environment-setup and delivery friction across engineering teams.
 - Facilitated organization-wide adoption of an automated security scanning platform (SAST/SCA/DAST) integrated into CI/CD, supporting ISO 27001 compliance objectives across the repository fleet.
 - Built an internal package-registry and artifact-distribution system with defined publish pipelines across multiple product lines.
-- Maintain deployment checklists, service templates, runbooks, and architecture guidance, converting recurring handoff friction into automation and self-service capabilities.
+- Develop and operate AWS Glue, Step Functions, and EventBridge workflows, including scheduling, dependency handling, recovery, and production support.
 
 **Lead Data Engineer**  
 _2026_
 
-Delivered Carlsmed's first working data-platform proof of concept and built analytics that directly informed infrastructure and product-development decisions.
+Established the foundation of Carlsmed's AWS data platform: lake architecture, ETL, orchestration, and analytics.
 
 - Delivered the first working proof of concept for the data platform: a medallion-architecture (bronze/silver/gold) data lake on S3 with AWS Glue ETL, a Glue Data Catalog, and Step Functions-orchestrated pipelines processing medical imaging (DICOM) data.
-- Built an analytics pipeline for the myaprevo platform that directly informed infrastructure and product-development decisions.
+- Built an analytics pipeline for the myAprevo platform that directly informed infrastructure and product-development decisions.
 
 ### CRC GROUP, Charlotte, NC (Remote)
 
@@ -52,9 +49,10 @@ Delivered Carlsmed's first working data-platform proof of concept and built anal
 **Lead Platform Engineer**  
 _2024 - 2026_
 
-Architect, build, and maintain CI/CD and infrastructure automation for 30+ development teams across diverse software products using Terraform, Azure DevOps, and the Azure cloud. Collaborate with cross-functional engineering teams to ensure consistent, auditable infrastructure standards that support secure data processing and analytics workflows.
+Architected, built, and maintained CI/CD and infrastructure automation for 30+ development teams across diverse software products using Terraform, Azure DevOps, and the Azure cloud. Collaborated with cross-functional engineering teams on consistent, auditable infrastructure standards supporting secure data processing and analytics workflows.
 
 - Developed an automated drift reporting system for 2,000+ Terraform IaC pipelines, enabling proactive detection and remediation of configuration drift through shared dashboards and automated ticket creation.  
+- Automated Azure DevOps instance migrations by combining the open-source [Azure DevOps Migration Tools](https://github.com/nkdAgility/azure-devops-migration-tools) with the AzDOCmd PowerShell module and direct REST API calls.
 - Built PowerShell and Terraform-based tooling to migrate batches of virtual machines across Azure tenants, reducing manual intervention and wait times by up to 90% while improving reliability.
 
 ### NUVASIVE (now Globus Medical), San Diego, CA
@@ -122,6 +120,10 @@ PowerShell modules published to the [PSGallery](https://www.powershellgallery.co
 | [**JBUtils**](https://github.com/thisjustin816/JBUtils)                           | Utilities for PowerShell including process management and data handling improvements.                                                                     |
 | [**PSModuleUtils**](https://github.com/thisjustin816/PSModuleUtils)               | Functions that automate building, testing, and publishing PowerShell modules, supporting CI/CD pipelines.                                                 |
 | [**terraform-null-label**](https://github.com/thisjustin816/terraform-null-label) | Terraform module for consistent labels and provider-aware AWS and Azure resource names, with per-service naming rules and an automated release workflow. |
+
+### Retro Game QA & Playtesting
+
+Functional and regression testing for retro game releases with [ModRetro](https://modretro.com) (cartridges for the Chromatic, an FPGA-based Game Boy and Game Boy Color compatible handheld), [Incube8 Games](https://incube8games.com) (physical cartridges for retro handhelds), and [Playtiles](https://playtil.es) (stick-on smartphone controller platform), plus ad hoc playtesting for independent developers.
 
 ## EDUCATION
 
