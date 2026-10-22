@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param (
     [String]$Name = $env:USERNAME,
-    [String[]]$FilePath = ("$PSScriptRoot\README.md", "$PSScriptRoot\SINGLEPAGE.md"),
+    [String[]]$FilePath = ("$PSScriptRoot\RESUME.md", "$PSScriptRoot\SINGLEPAGE.md"),
     [String]$Destination = $PSScriptRoot,
     [String]$Version = ( Get-Date -Format 'yyyyMMdd.HHmm' )
 )
@@ -15,7 +15,7 @@ if (!(Get-Command -Name 'npx' -ErrorAction SilentlyContinue)) {
 }
 
 foreach ($file in $source) {
-    $fileName = if ($file.Name -match 'readme') {
+    $fileName = if ($file.Name -ieq 'RESUME.md') {
         "$Name-resume-complete_$Version"
     }
     else {
