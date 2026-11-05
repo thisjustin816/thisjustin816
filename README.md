@@ -34,11 +34,11 @@ Version 2 separates logical labels from provider-valid names, with configurable 
 
 ## Game Boy development
 
-A Game Boy Color demake, original diagnostic ROMs, patches, and continued development on games I enjoy playing on real hardware.
+A Game Boy Color demake, original diagnostic ROMs, patches, and continued development of games I enjoy.
 
 | Project | What I've built |
 | --- | --- |
-| [**Match Land Demake**](https://cptbacon.itch.io/match-land-demake) | A fan-made Game Boy Color demake of Match Land with timed tile-matching combos, hero progression, and boss battles. Play the demo in your browser or download the ROM on itch.io; the full game is still in development. |
+| [**Match Land Demake**](https://cptbacon.itch.io/match-land-demake) | A fan-made Game Boy Color demake of Match Land with timed tile-matching combos, hero progression, and boss battles. Play the demo in your browser or download the ROM on itch.io. |
 | [**Bacon Bits Test Cartridge**](https://github.com/thisjustin816/bacon-bits) | A Game Boy / Game Boy Color diagnostic cartridge with original artwork and animated instruments. Tests include buttons, display, audio, SRAM, link cable, infrared, burn-in, and flicker, with separate rumble and RTC builds. |
 | [**Game Boy homebrew patches**](https://github.com/thisjustin816/gameboy-homebrew-patches) | Battery saves and bug fixes for games including Hermano, Roguecraft GB, Bubble Bobble, and Legion of Evil, plus standalone hardware diagnostics. Patches include source and verification tools. |
 | [**Pokémon Pinball rumble patch**](https://github.com/thisjustin816/pokepinball-rumble-patch) | A PowerShell patcher that adjusts rumble timing for flashcart motors, paired with a diagnostic ROM for measuring motor response. |
@@ -52,6 +52,6 @@ I've also done functional and regression testing for retro releases with [ModRet
 
 ## Background and contact
 
-My work spans platform engineering, DevOps, data infrastructure, and embedded software testing. The [full resume](RESUME.md) covers my professional experience; the [one-page version](SINGLEPAGE.md) provides a shorter overview.
+My work covers platform engineering, DevOps, data infrastructure, and embedded software testing. See the [full resume](RESUME.md) for details or the [one-page version](SINGLEPAGE.md) for a summary.
 
 Reach me at [justinbeeson@gmail.com](mailto:justinbeeson@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/justinbeeson).

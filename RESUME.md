@@ -84,7 +84,7 @@ _2016 - 2018_
 
 Developed and executed system integration and regression testing for Windows-based and web-based clinical applications within Agile environments. Designed tools and test automation to validate imaging, connectivity, and performance requirements for surgical platforms.
 
-- Authored and maintained regression and integration tests ensuring full verification coverage for clinical and regulatory requirements.  
+- Authored and maintained regression and integration tests that gave full verification coverage of clinical and regulatory requirements.  
 - Designed automated performance test suites for imaging and data-heavy applications, reducing manual effort and improving reproducibility.
 
 ### SAMSUNG ELECTRONICS AMERICA, Long Beach, CA
@@ -94,7 +94,7 @@ Developed and executed system integration and regression testing for Windows-bas
 **Senior Test Engineer**  
 _2013 - 2015_
 
-Led testing efforts for embedded media and set-top box systems, ensuring performance, reliability, and compatibility across multiple hardware platforms. Managed geographically distributed testing teams and developed automated test infrastructure.
+Led testing efforts for embedded media and set-top box systems, covering performance, reliability, and compatibility across multiple hardware platforms. Managed geographically distributed testing teams and developed automated test infrastructure.
 
 - Created automated test scripts that reduced execution time by 50% and improved debugging accuracy.  
 - Maintained automated test racks for 200+ units, enabling remote monitoring, test execution, and maintenance.  
